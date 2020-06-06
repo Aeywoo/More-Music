@@ -1,5 +1,5 @@
 # More-Music
 
-in this addon i have added 47 new music tracks to BEE2.4!
+This addon is a collection of 47 new tracks to add to BEE 2.4!
 
-music are taken from the p2 soundtrack and from incompetech.com, watch those out!
+The music included in this pack are taken from the Portal 2 Official Soundtrack and incompetech.com, Enjoy!
